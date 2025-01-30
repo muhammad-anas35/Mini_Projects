@@ -8,7 +8,19 @@
 
 # Running code 
 For Running you have to dawload some librariesof Python.
-1. 
+ 
+```Python
+        pip install qrcode
+``` 
+- for qrcode
 ```Python
         pip install pillow
 ``` 
+- To Create a Image of Qr code
+```Python
+        pip install pyzbar
+``` 
+- To Decode the Qr code
+
+# Porpose
+- This is for my Practice of python in free time .
