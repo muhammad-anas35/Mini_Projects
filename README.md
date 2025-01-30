@@ -7,7 +7,7 @@
  - This is for to **Rename** the bulk of Images etc.
 
 # Running code 
-For Running you have to dawload some librariesof Python.
+For Running you have to dawnload some librariesof Python.
  
 ```Python
         pip install qrcode
